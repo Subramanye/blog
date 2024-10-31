@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Rama"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi, there 👋! My name is Rama. I'm a planetary science researcher and my work primarily focuses on numerical modeling of planetary surface processes. I write blogs to educate curious people and inspire people to be curious. I see this as a way of leveraging my skills to contribute to scientific community in a global scale.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+## Feel free to contribute !
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+<a href="https://www.buymeacoffee.com/subramanye"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=subramanye&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Thanks for reading!
