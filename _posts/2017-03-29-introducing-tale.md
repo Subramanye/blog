@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "The Walnut Society"
+author: "Rama"
 comments: true
 tags: Tale
 excerpt_separator: <!--more-->
@@ -9,25 +9,22 @@ sticky: true
 hidden: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
+One fine evening, I sat down to continue my work on fitting a gaussian curve for eclipses produced during a Nova outburst and quiescent period while having a cup of chai (tea) and a bowl of badam, kismis (dried grape), walnut, and shakkarpara, an Indian sweet snack made from a dough of sugar, ghee, maida, and semolina.
+<!--more-->
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
-- Disqus comments
+The name is derived from Persian Shekarpareh. When I picked up a walnut, I noticed a very vague, face-like pattern on it. In general, walnuts are known to look like a human brain, and most people buy them for that sole reason. Walnuts are identified as ‘heart-healthy’ food, and from a nutritional study standpoint, walnuts indeed help improve the thinking and memory power of our brain. So you can eat them in their entirety without leaving any part, not because they look like a brain but because they are healthy. And what boggled me was, instead of a brain-like pattern, why did I see a face? And why a human face? Speaking of the human face on a heart-healthy inanimate food,. 
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
+This reminded me of a famous mission sent by NASA as part of its Viking program: a Viking 1 spacecraft launched to Mars had an orbiter and a lander. With the help of a twin high-resolution camera, the Viking 1 orbiter snapped an image of a few rock formation structures in the Cydonia region of Mars. This was taken on July 25, 1976. When NASA released this image, people around the world went over and above after seeing it. Why? Because one particular feature of a rocky structure had a face-like pattern on it. People called it “The Face on Mars." Countless conspiracy theories flood television and newspapers, primarily portraying the idea of the existence of an alien civilization on Mars. Later, it was confirmed that it was just the position of the imaging system of the orbiter, the sun’s angle on the rock surface, and its shadow that were perfect to produce this optical illusion. To be honest, we are more fond of believing in conspiracy theories than the actual facts of objective reality.
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
+So, what is it with perceiving animal or human face patterns in cloud formation, inverted plug sockets, walnuts, toys, plastic bottles, tree trunks, and so on? These patterns, which we perceive, fall under the umbrella of the term Pareidolia. It is the tendency to impose something meaningful on an inanimate object. 
 
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
+But why face? From an evolutionary perspective, our brain has evolved a certain neural mechanism trait to rapidly detect faces, and it exploits the common facial structure as a short-cut for rapid detection. Another bias in this case is that we are under the presumption that alien civilizations that are residing 225 million km away from our only home planet possess precisely the exact combination of genetic makeup with 23 pairs of chromosomes within their cell nucleus.
 
-Thanks for checking out Tale!
+If the face on Mars is just an optical illusion and not an alien, then what do they look like? If they do exist, where are they? To answer this profound question, Dr. Frank Drake in 1961 came up with a formulation to predict the number of intelligent alien civilizations in the Milky Way Galaxy. It goes like this: consider the average rate of star formation happening in our galaxy per year. The fraction of those stars with planetary systems. The fraction of those planets with an environment where life may exist. The fraction of those planets where life does exist. The fraction of life-bearing planets on which intelligent life emerges. The fraction of civilization that develops a technology that produces detectable signs of their existence, for example, Radio signals. And the average length of time such a civilization produces detectable signs. This came out to be Drake's equation.
+
+<mi>N</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><msub><mi>R</mi><mo>*</mo></msub><mo>&#x2218;</mo><mo>&#xA0;</mo><msub><mi>f</mi><mi>p</mi></msub><mo>&#xA0;</mo><mo>&#x2218;</mo><mo>&#xA0;</mo><msub><mi>n</mi><mi>e</mi></msub><mo>&#xA0;</mo><mo>&#x2218;</mo><mo>&#xA0;</mo><msub><mi>f</mi><mrow><mi>L</mi><mo>&#xA0;</mo></mrow></msub><mo>&#x2218;</mo><mo>&#xA0;</mo><msub><mi>f</mi><mi>i</mi></msub><mo>&#xA0;</mo><mo>&#x2218;</mo><mo>&#xA0;</mo><msub><mi>f</mi><mrow><mi>c</mi><mo>&#xA0;</mo></mrow></msub><mo>&#x2218;</mo><mo>&#xA0;</mo><mi>L</mi>
+
+N being the number of civilizations in the Milky Way galaxy whose electromagnetic emissions are detectable. If we put the numbers for the respective parameters, the numbers in the equation are just an educated guess. The equation burps out a number (N), and this led to the search for extraterrestrial life in outer space. So, either we are alone in this Universe or we are not. Both are equally terrifying. 
+
+>Neither do we know if they exist nor do we know what they look like. If we imagine them to be green little men, why not consider an alien society of walnuts? The Walnut Society.
+Aren't headings cool?
