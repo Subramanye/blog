@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-Hi, there 👋! My name is Rama. I'm a planetary science researcher and my work primarily focuses on numerical modeling of planetary surface processes. I write blogs to educate curious people and inspire people to be curious. I see this as a way of leveraging my skills to contribute to scientific community in a global scale.
+Hi, there 👋! My name is Rama. I'm a planetary science researcher and my work primarily focuses on numerical modeling of planetary surface processes (Check out my [homepage](https://subramanye.github.io/)). I write blogs to educate curious people and inspire people to be curious. I see this as a way of leveraging my skills to contribute to scientific community in a global scale.
 
 ## Feel free to contribute !
 
