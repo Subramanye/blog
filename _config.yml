@@ -31,6 +31,9 @@ plugins:
 permalink:      /:year-:month-:day/:title
 paginate:       5
 
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
